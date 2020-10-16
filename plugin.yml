@@ -6,4 +6,5 @@ main: xPrim69x\ATEnchants\Main
 api: [3.0.0]
 permissions:
  at.enchant:
+  default: op
   description: Enchant items
